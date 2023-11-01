@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webspreadtech.com/images/python-banner.jpg)]
+![MasterHead](https://www.webspreadtech.com/images/python-banner.jpg)
 <h1 align="center">Hi 👋, I'm Mayur Pashte</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
